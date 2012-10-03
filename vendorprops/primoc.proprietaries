@@ -1,0 +1,8 @@
+[
+    {
+        "account":      "rukin5197",
+        "repository":   "android_vendor_htc_primoc",
+        "target_path":  "vendor/htc/primoc",
+        "revision":     "jellybean"
+    }
+]
